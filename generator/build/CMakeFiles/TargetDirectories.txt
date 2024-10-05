@@ -1,0 +1,3 @@
+/home/jpmag/Transferências/CG/generator/build/CMakeFiles/rebuild_cache.dir
+/home/jpmag/Transferências/CG/generator/build/CMakeFiles/edit_cache.dir
+/home/jpmag/Transferências/CG/generator/build/CMakeFiles/generator.dir

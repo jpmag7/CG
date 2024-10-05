@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jpmag/Transferências/CG/generator/main.cpp
+GLUT/glut.h
+-
+GL/glut.h
+-
+iostream
+-
+string
+-
+list
+-
+fstream
+-
+cstring
+-
+math.h
+-
+vector
+-
+
