@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jpmag/Transferências/CG/engine/catmullRom.cpp
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+math.h
+-
+GLUT/glut.h
+-
+GL/glut.h
+-
+catmullRom.h
+/home/jpmag/Transferências/CG/engine/catmullRom.h
+
+/home/jpmag/Transferências/CG/engine/catmullRom.h
+
